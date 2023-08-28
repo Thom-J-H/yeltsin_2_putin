@@ -9,7 +9,7 @@ The graphs were produced for the  [American Exile](https://americanexile.substac
 
 <hr />
 
-The code and images in this repository  are available under a [CC0 Public Domian](https://creativecommons.org/share-your-work/public-domain/cc0/) license. 
+The code and images in this repository  are available under a [CC0 Public Domain](https://creativecommons.org/share-your-work/public-domain/cc0/) license. 
 
 The data sets, sourced through the [Gapminder Foundation](https://www.gapminder.org/data/), are available under a [CC By 4.0](https://creativecommons.org/licenses/by/4.0/) International license.
 
